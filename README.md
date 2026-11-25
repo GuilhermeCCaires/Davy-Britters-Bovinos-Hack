@@ -7,6 +7,8 @@
 
 | 🎬 Vídeo (≤ 2 min) | 📊 Slides (5) | 📄 Desenvolvimento | 🗄️ Banco de dados |
 
+link do video: https://drive.google.com/file/d/1_Wqe9w1ZgtWUx6fNNdvTZhB3l-FeEsGp/view?usp=sharing
+
 ---
 
 ## 1. O problema
