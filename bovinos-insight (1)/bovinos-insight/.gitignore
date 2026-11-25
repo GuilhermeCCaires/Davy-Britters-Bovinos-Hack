@@ -1,0 +1,5 @@
+outputs/video_anotado.mp4
+__pycache__/
+*.pt
+.venv/
+outputs/pratos/

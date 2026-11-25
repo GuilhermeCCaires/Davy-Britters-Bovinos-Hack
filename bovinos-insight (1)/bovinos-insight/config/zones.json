@@ -1,0 +1,127 @@
+{
+  "_comentario": "Coordenadas normalizadas (0-1) sobre o quadro da câmera. Gere as suas com: python -m src.zone_editor --video SEU_VIDEO.mp4. IMPORTANTE: a zona de papel 'entrada' deve encostar na borda do quadro por onde o cliente volta para a rua; assim quem desiste é visto pela última vez dentro dela.",
+  "zones": [
+    {
+      "name": "escada_entrada",
+      "label": "Escada / entrada",
+      "type": "queue",
+      "role": "entrada",
+      "alert_count": 8,
+      "polygon": [
+        [
+          0.02,
+          0.55
+        ],
+        [
+          0.22,
+          0.55
+        ],
+        [
+          0.22,
+          1.0
+        ],
+        [
+          0.02,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "inicio_buffet",
+      "label": "Pratos / início do buffet (saladas)",
+      "type": "queue",
+      "role": "buffet",
+      "alert_count": 10,
+      "polygon": [
+        [
+          0.24,
+          0.45
+        ],
+        [
+          0.5,
+          0.45
+        ],
+        [
+          0.5,
+          0.8
+        ],
+        [
+          0.24,
+          0.8
+        ]
+      ]
+    },
+    {
+      "name": "churrasqueira",
+      "label": "Churrasqueira",
+      "type": "queue",
+      "role": "buffet",
+      "alert_wait_s": 150,
+      "alert_count": 9,
+      "polygon": [
+        [
+          0.6,
+          0.2
+        ],
+        [
+          0.95,
+          0.2
+        ],
+        [
+          0.95,
+          0.5
+        ],
+        [
+          0.6,
+          0.5
+        ]
+      ]
+    },
+    {
+      "name": "mesa_S01",
+      "type": "table",
+      "praca": "salao_superior",
+      "polygon": [
+        [
+          0.55,
+          0.62
+        ],
+        [
+          0.7,
+          0.62
+        ],
+        [
+          0.7,
+          0.8
+        ],
+        [
+          0.55,
+          0.8
+        ]
+      ]
+    },
+    {
+      "name": "mesa_S02",
+      "type": "table",
+      "praca": "salao_superior",
+      "polygon": [
+        [
+          0.75,
+          0.62
+        ],
+        [
+          0.92,
+          0.62
+        ],
+        [
+          0.92,
+          0.8
+        ],
+        [
+          0.75,
+          0.8
+        ]
+      ]
+    }
+  ]
+}

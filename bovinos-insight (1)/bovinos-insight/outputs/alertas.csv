@@ -1,0 +1,56 @@
+timestamp,tipo,zona,mensagem
+2026-11-24T12:13:47,fila_longa,inicio_buffet,⚠️ Pratos / início do buffet (saladas): 10 pessoas na fila (limite 10). Abrir apoio / direcionar clientes.
+2026-11-24T12:15:42,mesa_suja,mesa_S02,"🧽 Mesa S02 (salão superior) suja há 3,0 min."
+2026-11-24T12:15:55,fila_longa,churrasqueira,⚠️ Churrasqueira: 9 pessoas na fila (limite 9). Abrir apoio / direcionar clientes.
+2026-11-24T12:16:40,fila_longa,inicio_buffet,⚠️ Pratos / início do buffet (saladas): 10 pessoas na fila (limite 10). Abrir apoio / direcionar clientes.
+2026-11-24T12:17:42,mesa_suja,mesa_S02,"🧽 Mesa S02 (salão superior) suja há 5,0 min."
+2026-11-24T12:17:55,fila_longa,churrasqueira,⚠️ Churrasqueira: 9 pessoas na fila (limite 9). Abrir apoio / direcionar clientes.
+2026-11-24T12:18:40,fila_longa,inicio_buffet,⚠️ Pratos / início do buffet (saladas): 12 pessoas na fila (limite 10). Abrir apoio / direcionar clientes.
+2026-11-24T12:20:40,fila_longa,inicio_buffet,⚠️ Pratos / início do buffet (saladas): 14 pessoas na fila (limite 10). Abrir apoio / direcionar clientes.
+2026-11-24T12:20:45,fila_longa,churrasqueira,⚠️ Churrasqueira: 9 pessoas na fila (limite 9). Abrir apoio / direcionar clientes.
+2026-11-24T12:21:15,fila_longa,escada_entrada,⚠️ Escada / entrada: 8 pessoas na fila (limite 8). Abrir apoio / direcionar clientes.
+2026-11-24T12:22:40,fila_longa,inicio_buffet,⚠️ Pratos / início do buffet (saladas): 22 pessoas na fila (limite 10). Abrir apoio / direcionar clientes.
+2026-11-24T12:22:45,fila_longa,churrasqueira,⚠️ Churrasqueira: 10 pessoas na fila (limite 9). Abrir apoio / direcionar clientes.
+2026-11-24T12:24:40,fila_longa,inicio_buffet,⚠️ Pratos / início do buffet (saladas): 17 pessoas na fila (limite 10). Abrir apoio / direcionar clientes.
+2026-11-24T12:24:45,fila_longa,churrasqueira,⚠️ Churrasqueira: 21 pessoas na fila (limite 9). Abrir apoio / direcionar clientes.
+2026-11-24T12:25:07,espera_alta,churrasqueira,"⏱️ Churrasqueira: espera média 2,5 min (meta 2,5 min). Reforçar atendimento."
+2026-11-24T12:26:40,fila_longa,inicio_buffet,⚠️ Pratos / início do buffet (saladas): 12 pessoas na fila (limite 10). Abrir apoio / direcionar clientes.
+2026-11-24T12:26:45,fila_longa,churrasqueira,⚠️ Churrasqueira: 19 pessoas na fila (limite 9). Abrir apoio / direcionar clientes.
+2026-11-24T12:27:07,espera_alta,churrasqueira,"⏱️ Churrasqueira: espera média 2,6 min (meta 2,5 min). Reforçar atendimento."
+2026-11-24T12:28:40,fila_longa,inicio_buffet,⚠️ Pratos / início do buffet (saladas): 13 pessoas na fila (limite 10). Abrir apoio / direcionar clientes.
+2026-11-24T12:28:45,fila_longa,churrasqueira,⚠️ Churrasqueira: 13 pessoas na fila (limite 9). Abrir apoio / direcionar clientes.
+2026-11-24T12:29:07,espera_alta,churrasqueira,"⏱️ Churrasqueira: espera média 2,7 min (meta 2,5 min). Reforçar atendimento."
+2026-11-24T12:30:12,mesa_suja,mesa_S01,"🧽 Mesa S01 (salão superior) suja há 3,0 min."
+2026-11-24T12:30:40,fila_longa,inicio_buffet,⚠️ Pratos / início do buffet (saladas): 15 pessoas na fila (limite 10). Abrir apoio / direcionar clientes.
+2026-11-24T12:30:53,fila_longa,churrasqueira,⚠️ Churrasqueira: 10 pessoas na fila (limite 9). Abrir apoio / direcionar clientes.
+2026-11-24T12:31:07,espera_alta,churrasqueira,"⏱️ Churrasqueira: espera média 2,8 min (meta 2,5 min). Reforçar atendimento."
+2026-11-24T12:32:12,mesa_suja,mesa_S01,"🧽 Mesa S01 (salão superior) suja há 5,0 min."
+2026-11-24T12:32:40,fila_longa,inicio_buffet,⚠️ Pratos / início do buffet (saladas): 15 pessoas na fila (limite 10). Abrir apoio / direcionar clientes.
+2026-11-24T12:32:53,fila_longa,churrasqueira,⚠️ Churrasqueira: 16 pessoas na fila (limite 9). Abrir apoio / direcionar clientes.
+2026-11-24T12:33:07,espera_alta,churrasqueira,"⏱️ Churrasqueira: espera média 2,9 min (meta 2,5 min). Reforçar atendimento."
+2026-11-24T12:34:40,fila_longa,inicio_buffet,⚠️ Pratos / início do buffet (saladas): 21 pessoas na fila (limite 10). Abrir apoio / direcionar clientes.
+2026-11-24T12:34:53,fila_longa,churrasqueira,⚠️ Churrasqueira: 13 pessoas na fila (limite 9). Abrir apoio / direcionar clientes.
+2026-11-24T12:35:07,espera_alta,churrasqueira,"⏱️ Churrasqueira: espera média 3,0 min (meta 2,5 min). Reforçar atendimento."
+2026-11-24T12:36:40,fila_longa,inicio_buffet,⚠️ Pratos / início do buffet (saladas): 21 pessoas na fila (limite 10). Abrir apoio / direcionar clientes.
+2026-11-24T12:36:53,fila_longa,churrasqueira,⚠️ Churrasqueira: 18 pessoas na fila (limite 9). Abrir apoio / direcionar clientes.
+2026-11-24T12:37:07,espera_alta,churrasqueira,"⏱️ Churrasqueira: espera média 3,0 min (meta 2,5 min). Reforçar atendimento."
+2026-11-24T12:38:40,fila_longa,inicio_buffet,⚠️ Pratos / início do buffet (saladas): 19 pessoas na fila (limite 10). Abrir apoio / direcionar clientes.
+2026-11-24T12:38:53,fila_longa,churrasqueira,⚠️ Churrasqueira: 20 pessoas na fila (limite 9). Abrir apoio / direcionar clientes.
+2026-11-24T12:39:07,espera_alta,churrasqueira,"⏱️ Churrasqueira: espera média 3,1 min (meta 2,5 min). Reforçar atendimento."
+2026-11-24T12:40:40,fila_longa,inicio_buffet,⚠️ Pratos / início do buffet (saladas): 13 pessoas na fila (limite 10). Abrir apoio / direcionar clientes.
+2026-11-24T12:40:53,fila_longa,churrasqueira,⚠️ Churrasqueira: 17 pessoas na fila (limite 9). Abrir apoio / direcionar clientes.
+2026-11-24T12:41:07,espera_alta,churrasqueira,"⏱️ Churrasqueira: espera média 3,1 min (meta 2,5 min). Reforçar atendimento."
+2026-11-24T12:42:51,fila_longa,inicio_buffet,⚠️ Pratos / início do buffet (saladas): 10 pessoas na fila (limite 10). Abrir apoio / direcionar clientes.
+2026-11-24T12:42:53,fila_longa,churrasqueira,⚠️ Churrasqueira: 17 pessoas na fila (limite 9). Abrir apoio / direcionar clientes.
+2026-11-24T12:43:07,espera_alta,churrasqueira,"⏱️ Churrasqueira: espera média 3,1 min (meta 2,5 min). Reforçar atendimento."
+2026-11-24T12:43:58,mesa_suja,mesa_S02,"🧽 Mesa S02 (salão superior) suja há 3,0 min."
+2026-11-24T12:44:51,fila_longa,inicio_buffet,⚠️ Pratos / início do buffet (saladas): 13 pessoas na fila (limite 10). Abrir apoio / direcionar clientes.
+2026-11-24T12:44:53,fila_longa,churrasqueira,⚠️ Churrasqueira: 12 pessoas na fila (limite 9). Abrir apoio / direcionar clientes.
+2026-11-24T12:45:07,espera_alta,churrasqueira,"⏱️ Churrasqueira: espera média 3,0 min (meta 2,5 min). Reforçar atendimento."
+2026-11-24T12:45:58,mesa_suja,mesa_S02,"🧽 Mesa S02 (salão superior) suja há 5,0 min."
+2026-11-24T12:46:53,fila_longa,churrasqueira,⚠️ Churrasqueira: 15 pessoas na fila (limite 9). Abrir apoio / direcionar clientes.
+2026-11-24T12:47:07,espera_alta,churrasqueira,"⏱️ Churrasqueira: espera média 2,9 min (meta 2,5 min). Reforçar atendimento."
+2026-11-24T12:48:53,fila_longa,churrasqueira,⚠️ Churrasqueira: 10 pessoas na fila (limite 9). Abrir apoio / direcionar clientes.
+2026-11-24T12:49:07,espera_alta,churrasqueira,"⏱️ Churrasqueira: espera média 2,7 min (meta 2,5 min). Reforçar atendimento."
+2026-11-24T12:51:07,espera_alta,churrasqueira,"⏱️ Churrasqueira: espera média 2,6 min (meta 2,5 min). Reforçar atendimento."
+2026-11-24T13:14:36,mesa_suja,mesa_S02,"🧽 Mesa S02 (salão superior) suja há 3,0 min."
