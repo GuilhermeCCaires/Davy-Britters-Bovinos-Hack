@@ -6,8 +6,6 @@
 **Bovinos Insight** usa visão computacional e os dados da comanda para medir o que hoje é decidido "no olhômetro": o que vai no prato (e quanto ele custa), quanto tempo o cliente espera, quantos desistem na escada, quanto tempo as mesas ficam sujas e quantos clientes virão amanhã. Tudo roda sobre o hardware que a casa **já tem**, com processamento **dentro da loja**.
 
 | 🎬 Vídeo (≤ 2 min) | 📊 Slides (5) | 📄 Desenvolvimento | 🗄️ Banco de dados |
-|---|---|---|---|
-| **[link do vídeo]** · [arquivo MP4](docs/video/bovinos_insight_demo.mp4) · [roteiro](docs/ROTEIRO_VIDEO.md) | **[link dos slides]** · [PDF](docs/apresentacao_5_slides.pdf) | [DESENVOLVIMENTO.md](docs/DESENVOLVIMENTO.md) | [schema.sql](db/schema.sql) · [SQLite da demo](db/bovinos_insight.db) |
 
 ---
 
@@ -73,7 +71,7 @@ flowchart LR
 ```
 
 - **Edge box na loja** (mini PC com GPU): as imagens entram e morrem lá; **só números saem** (LGPD). Não há reconhecimento facial; os IDs de rastreamento são anônimos e temporários.
-- Detalhes de cada algoritmo, do modelo de dados e da validação: **[docs/DESENVOLVIMENTO.md](docs/DESENVOLVIMENTO.md)**.
+
 
 ## 5. Resultados da validação
 
@@ -147,16 +145,7 @@ python -m src.plate_mix --img data/pratos/prato1.jpg --peso 0.62 --tema "Comida 
 | 3 · Salão | 2–3 meses | Mesa Pronta, Buffet Vivo, NPS |
 | 4 · Escala | depois | Alameda Santos, depois as 13 unidades |
 
-## 9. Checklist da entrega
 
-| Item pedido | Onde está |
-|---|---|
-| 1. Detalhamento e desenvolvimento do projeto | [docs/DESENVOLVIMENTO.md](docs/DESENVOLVIMENTO.md) |
-| 2. Descrição do problema e da solução | Seções 1 e 2 deste README |
-| 3. Capturas de tela (até 5) | Seção 3 · [docs/prints/](docs/prints) |
-| 4. Vídeo de até 2 min | **[link do vídeo]** · [MP4](docs/video/bovinos_insight_demo.mp4) |
-| 5. Apresentação de até 5 slides | **[link dos slides]** · [PDF](docs/apresentacao_5_slides.pdf) |
-| 6. Diagramas, código, banco, sistema | Seção 4 · [src/](src) · [db/](db) · [dashboard/](dashboard) · [tests/](tests) |
 
 
 
