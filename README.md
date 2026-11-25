@@ -40,19 +40,19 @@ Seis módulos ao longo da jornada do cliente, integrados por **duas chaves**: *c
 ## 3. Capturas de tela
 
 **1. Dashboard · Jornada e fluxo:** chegadas por 15 min e tempo da entrada até a balança. No pico, o tempo quase dobra.
-![Dashboard jornada](docs/prints/01_dashboard_jornada.png)
+
 
 **2. Dashboard · Mix do prato:** composição do prato por dia e CMV estimado por horário.
-![Dashboard mix](docs/prints/02_dashboard_mix_cmv.png)
+
 
 **3. Dashboard · Filas e mesas:** pessoas por zona, espera × meta de 2,5 min, desistências e alertas.
-![Dashboard filas](docs/prints/03_dashboard_filas_mesas.png)
+
 
 **4. Análise do salão:** zonas, contagem, desistências, estado das mesas e alerta ao maître (saída do `video_pipeline`).
-![Análise do salão](docs/prints/04_video_analise_salao.png)
+
 
 **5. Previsão e alertas:** clientes dos próximos 7 dias, escala sugerida e alertas no celular da gerência.
-![Previsão e alertas](docs/prints/05_previsao_e_alertas.png)
+
 
 > Os prints usam **dados sintéticos** calibrados com os números da Bovinos. A cena do salão é simulada, mas a análise é feita pelo código real do projeto.
 
