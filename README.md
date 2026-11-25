@@ -158,8 +158,6 @@ python -m src.plate_mix --img data/pratos/prato1.jpg --peso 0.62 --tema "Comida 
 | 5. Apresentação de até 5 slides | **[link dos slides]** · [PDF](docs/apresentacao_5_slides.pdf) |
 | 6. Diagramas, código, banco, sistema | Seção 4 · [src/](src) · [db/](db) · [dashboard/](dashboard) · [tests/](tests) |
 
-## 10. Equipe
 
-| Nome | Curso | Papel |
-|---|---|---|
-| [nome] | [curso] | [papel] |
+
+
